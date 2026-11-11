@@ -17,3 +17,13 @@
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 - 🧬 [Explore the remix source](https://github.com/Huliokajr/Until-You-Let-It-Go).
 <!-- omgithub:readme:end -->
+
+## Play
+
+Open `index.html` in a modern desktop browser, or serve this folder with any static web server. No build step or runtime dependencies are required.
+
+- **WASD / arrows:** move · **Shift:** sprint
+- **Mouse:** aim · **Click:** fire · **R:** reload
+- **E:** inspect, pick up, or interact · **Tab:** field map · **Esc:** close a note
+
+Recover the three House seals, defeat the Keeper, and choose what to carry out of Porto Sereno. The current build is a compact, single-area playable vertical slice; its pixel-art presentation uses a top-down 2.5D canvas rather than a full 3D renderer.
